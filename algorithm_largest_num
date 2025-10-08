@@ -1,0 +1,10 @@
+step1: start
+setep2:read the given three numbers(a,b,c)
+step3:if a <-b and a<-c,then
+          a is greatest
+step4: else if b<-c,then
+               b is greatest
+step5: else,then
+            c is greaatest 
+step6: display the greatest  number 
+step7:end 
